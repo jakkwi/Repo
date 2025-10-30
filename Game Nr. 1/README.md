@@ -49,6 +49,7 @@ I followed several tutorials to create this prototype — the main one being by 
 **30.10.2025**
 
 🎥 [Watch the gameplay video here]![Gameplay Preview](https://github.com/jakkwi/Repo/raw/main/Game%20Nr.%201/30.10.2025.mp4) 
+
 *(GitHub doesn’t show videos inline, click the link to view.)*
 
 Or preview a GIF version if available:  
