@@ -1,74 +1,71 @@
-# \# Turnament (name in progress)
+# 🧩 **Tournament** *(name in progress)*
 
-\## A game similar to Dofus, but in 3D and with roguelike elements.
+### A tactical 3D RPG inspired by **Dofus**, with roguelike progression and turn-based combat
 
-I followed several tutorials to create this prototype, with the main one being Alex Quevillon’s tutorial on YouTube.
+I followed several tutorials to create this prototype — the main one being by **[Alex Quevillon](https://www.youtube.com/@AlexQuevillon)** on YouTube.
 
+---
 
+## ⚙️ **Engine Info**
 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.6-blue?logo=unrealengine&logoColor=white)
+![Language](https://img.shields.io/badge/C%2B%2B-Used%20for%20core%20systems-success)
+![Status](https://img.shields.io/badge/Prototype%20Phase-In%20Progress-yellow)
 
+---
 
-\## Supported Unreal Engine Version: UE 5.6
+## 🎮 **Inputs**
 
+- 🖱️ **Mouse:** Execute actions (left & right click), zoom (wheel)  
+- ⌨️ **Keyboard:** Camera movement (W, A, S, D, Q, E)
 
+---
 
+## 🔧 **Technical Details**
 
+### ✅ Done (works well, may improve later)
+- Top-down camera movement  
+- Turn-based tactical combat  
+- Dynamic grid *(Square, Hexagon, Triangle)*  
+- Grid-based pathfinding  
+- Basic tactical AI  
+- Overworld navigation  
+- In-game debug menu for testing  
+- Player action system using only left/right mouse buttons  
+- Multiple examples of unit types, spells, AIs, and levels  
 
-\## Inputs:
+### 🚧 To Do (in progress or planned)
+- Random Map Generation  
+- Random Enemy Generation  
+- Level System  
+- Character Class System  
+- Equipment System  
+- Roguelike System *(infinite levels)*  
 
-* Mouse: Execute actions (left \& right click) and zoom (wheel)
-* Keyboard: Camera movement (W, A, S, D, Q \& E)
+---
 
+## 📅 **Current Progress**
 
+**30.10.2025**
 
-\## Technical details:
+🎥 [Watch the gameplay video here](https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/30.10.2025.mp4?raw=true)  
+*(GitHub doesn’t show videos inline, click the link to view.)*
 
-* Done (works without problems, place for improvement):
+Or preview a GIF version if available:  
+![Gameplay Preview](https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/preview.gif?raw=true)
 
-&nbsp;  - Top down camera movement
+---
 
-   - Turn-based tactical combat
+## 🧠 **Concept Summary**
 
-   - Dynamic grid (Square, Hexagon and Triangle)
+> *“Tournament” aims to blend tactical, grid-based combat with roguelike replayability — every run offers new maps, enemies, and strategies.*  
 
-   - Grid based pathfinding
+Explore, fight, and adapt your tactics to survive the ever-changing challenges.
 
-&nbsp;  - Basic tactical AI
+---
 
-&nbsp;  - Overworld navigation
+## 🤝 **Credits**
+  
+- **Main Tutorial Source:** [Alex Quevillon](https://www.youtube.com/@AlexQuevillon)
 
-   - In game debug menu to test all the features
-
-   - Player actions system to execute all kinds of actions by
-     only using the left and right mouse buttons
-
-   - Multiple example of unit types, spells, AIs and levels
-
-* To Do (started, in progress, working but not perfectly):
-
-&nbsp;  - Random Map Generation
-
-&nbsp;  - Random Enemy Generation
-
-   - Level System
-
-&nbsp;  - Character Class System
-
-   - Equipment System
-
-&nbsp;  - Rogue Like System (infinite levels)
-
-
-
-
-
-\## Current Progress
-
-* 30.10.2025
-
-<video src="https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/30.10.2025.mp4?raw=true" width="352" height="720"></video>
-
- 
-
- 
-
+---
