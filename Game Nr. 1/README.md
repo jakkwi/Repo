@@ -1,56 +1,73 @@
-A game similar to Dofus, but in 3D and with roguelike elements.
+# \#Turnament (name in progress)
+
+\##A game similar to Dofus, but in 3D and with roguelike elements.
 
 I followed several tutorials to create this prototype, with the main one being Alex Quevillon’s tutorial on YouTube.
 
 
 
-Supported Unreal Engine Version: UE 5.6
+
+
+\##Supported Unreal Engine Version: UE 5.6
 
 
 
-Inputs:
-
-&nbsp;	Mouse: Execute actions (left \& right click) and zoom (wheel)
-
-&nbsp;	Keyboard: Camera movement (W, A, S, D, Q \& E)
 
 
+\##Inputs:
 
-Technical details:
+* Mouse: Execute actions (left \& right click) and zoom (wheel)
+* Keyboard: Camera movement (W, A, S, D, Q \& E)
 
-&nbsp;	Done (works without problems, place for improvement):
 
-&nbsp;		Top down camera movement
 
-&nbsp;		Turn-based tactical combat
+\##Technical details:
 
-&nbsp;		Dynamic grid (Square, Hexagon and Triangle)
+* Done (works without problems, place for improvement):
 
-&nbsp;		Grid based pathfinding
+&nbsp;	- Top down camera movement
 
-&nbsp;		Basic tactical AI
+ 	- Turn-based tactical combat
 
-&nbsp;		Overworld navigation
+ 	- Dynamic grid (Square, Hexagon and Triangle)
 
-&nbsp;		In game debug menu to test all the features
+ 	- Grid based pathfinding
 
-&nbsp;		Player actions system to execute all kinds of actions by 			only using the left and right mouse buttons
+ 	- Basic tactical AI
 
-&nbsp;		Multiple example of unit types, spells, AIs and levels
+ 	- Overworld navigation
 
-&nbsp;	To Do (started, in progress, working but not perfectly):
+ 	- In game debug menu to test all the features
 
-&nbsp;		Random Map Generation
+ 	- Player actions system to execute all kinds of actions by 		  only using the left and right mouse buttons
 
-&nbsp;		Random Enemy Generation
+ 	- Multiple example of unit types, spells, AIs and levels
 
-&nbsp;		Level System
+* To Do (started, in progress, working but not perfectly):
 
-&nbsp;		Character Class System
+ 	- Random Map Generation
 
-&nbsp;		Equipment System
+ 	- Random Enemy Generation
 
-&nbsp;		Rogue Like System (infinite levels)
+ 	- Level System
+
+ 	- Character Class System
+
+ 	- Equipment System
+
+ 	- Rogue Like System (infinite levels)
+
+
+
+
+
+\##Current Progress
+
+* 30.10.2025 
+
+\[!\[Watch the video]](https://raw.githubusercontent.com/jakkwi/Repo/main/Game%20Nr.%201/30.10.2025.mp4)
 
 &nbsp;	
+
+ 
 
