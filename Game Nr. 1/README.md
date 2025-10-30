@@ -2,7 +2,7 @@
 
 ### A tactical 3D RPG inspired by **Dofus**, with roguelike progression and turn-based combat
 
-I followed several tutorials to create this prototype — the main one being by **[Alex Quevillon](https://www.youtube.com/@AlexQuevillon)** on YouTube.
+I followed several tutorials to create this prototype — the main one being by **[Alex Quevillon](https://www.youtube.com/@AlexQuevillonEn)** on YouTube.
 
 ---
 
@@ -48,11 +48,11 @@ I followed several tutorials to create this prototype — the main one being by 
 
 **30.10.2025**
 
-🎥 [Watch the gameplay video here](https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/30.10.2025.mp4?raw=true)  
+🎥 [Watch the gameplay video here](https://github.com/jakkwi/Repo/main/Game%20Nr.%201/30.10.2025.mp4?raw=true)  
 *(GitHub doesn’t show videos inline, click the link to view.)*
 
 Or preview a GIF version if available:  
-![Gameplay Preview](https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/preview.gif?raw=true)
+![Gameplay Preview](https://github.com/jakkwi/Repo/main/Game%20Nr.%201/preview.gif?raw=true)
 
 ---
 
