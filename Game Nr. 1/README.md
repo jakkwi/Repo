@@ -1,6 +1,6 @@
-# \#Turnament (name in progress)
+# \# Turnament (name in progress)
 
-\##A game similar to Dofus, but in 3D and with roguelike elements.
+\## A game similar to Dofus, but in 3D and with roguelike elements.
 
 I followed several tutorials to create this prototype, with the main one being Alex Quevillon’s tutorial on YouTube.
 
@@ -8,66 +8,67 @@ I followed several tutorials to create this prototype, with the main one being A
 
 
 
-\##Supported Unreal Engine Version: UE 5.6
+\## Supported Unreal Engine Version: UE 5.6
 
 
 
 
 
-\##Inputs:
+\## Inputs:
 
 * Mouse: Execute actions (left \& right click) and zoom (wheel)
 * Keyboard: Camera movement (W, A, S, D, Q \& E)
 
 
 
-\##Technical details:
+\## Technical details:
 
 * Done (works without problems, place for improvement):
 
-&nbsp;	- Top down camera movement
+&nbsp;  - Top down camera movement
 
- 	- Turn-based tactical combat
+   - Turn-based tactical combat
 
- 	- Dynamic grid (Square, Hexagon and Triangle)
+   - Dynamic grid (Square, Hexagon and Triangle)
 
- 	- Grid based pathfinding
+   - Grid based pathfinding
 
- 	- Basic tactical AI
+&nbsp;  - Basic tactical AI
 
- 	- Overworld navigation
+&nbsp;  - Overworld navigation
 
- 	- In game debug menu to test all the features
+   - In game debug menu to test all the features
 
- 	- Player actions system to execute all kinds of actions by 		  only using the left and right mouse buttons
+   - Player actions system to execute all kinds of actions by
+     only using the left and right mouse buttons
 
- 	- Multiple example of unit types, spells, AIs and levels
+   - Multiple example of unit types, spells, AIs and levels
 
 * To Do (started, in progress, working but not perfectly):
 
- 	- Random Map Generation
+&nbsp;  - Random Map Generation
 
- 	- Random Enemy Generation
+&nbsp;  - Random Enemy Generation
 
- 	- Level System
+   - Level System
 
- 	- Character Class System
+&nbsp;  - Character Class System
 
- 	- Equipment System
+   - Equipment System
 
- 	- Rogue Like System (infinite levels)
-
-
+&nbsp;  - Rogue Like System (infinite levels)
 
 
 
-\##Current Progress
 
-* 30.10.2025 
 
-\[!\[Watch the video]](https://raw.githubusercontent.com/jakkwi/Repo/main/Game%20Nr.%201/30.10.2025.mp4)
+\## Current Progress
 
-&nbsp;	
+* 30.10.2025
+
+<video src="https://github.com/jakkwi/Repo/blob/main/Game%20Nr.%201/30.10.2025.mp4?raw=true" width="352" height="720"></video>
+
+ 
 
  
 
